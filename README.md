@@ -1,4 +1,4 @@
 
-- 💼 Atualmente trabalhando com front-end
-- 💻 Estudando html, CSS e javascript
-- 📨 Contate-me no email: endersongustavo09@gmail.com
+- **💼 Data Analyst at Banpará**
+- **💻 Studying Django and Python**
+- **📨 Contact me via email: endersongustavo09@gmail.com**
